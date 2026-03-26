@@ -3,4 +3,4 @@
 
 자료구조 코드들 입주 예정( python )
 
-260326 : LinkedList( singly LinkedList 입주 완료 )
+260326 --> LinkedList( singly LinkedList 입주 완료 )
