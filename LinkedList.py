@@ -89,7 +89,7 @@ class LinkedList:
         while current is not None :
             next_node = current.next   # 다음 노드를 미리 저장
             current.next = prev        # 링크 방향 뒤집기
-            prev = current             # prev 한 칸 이동
+            prev = current             # prev 한 칸 이동, current를 prev에 넣는다. 오른쪽 값을 왼쪽 변수에 넣는다는 느낌.
             current = next_node        # current 한 칸 이동
         
         self.header.next = prev
