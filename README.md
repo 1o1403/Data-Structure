@@ -15,7 +15,7 @@
 260403 --> Stack_Array 입주 완료
 
 
-260403 --> stack_LinkedList 입주 완료
+260403 --> Stack_LinkedList 입주 완료
 
 
 
