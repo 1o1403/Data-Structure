@@ -68,6 +68,7 @@ class CircularLinkedList:
         
         #노드가 1개 뿐인 경우
         if self.size == 1:
+            data = self.tail.data
             self.tail = None
             self.size = 0
             return data
