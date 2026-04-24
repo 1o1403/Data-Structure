@@ -5,7 +5,7 @@ class Node:
 
 
 
-######### [header(dummy)] -> [10] -> [20] -> [30] -> NULL #########
+######### [header(dummy)] -> [10](시작노드) -> [20] -> [30] -> NULL #########
 class LinkedList:
     def __init__ (self) :
         self.header = Node()  #header node - 실제 데이터를 가지고 있지 않음.
